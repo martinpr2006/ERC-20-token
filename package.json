@@ -1,4 +1,7 @@
-{
+{ 
+  "scripts": {
+    "compile": "truffle compile"
+  },
   "dependencies": {
     "truffle": "^5.11.5"
   }
